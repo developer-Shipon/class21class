@@ -1,0 +1,23 @@
+.carousel-caption{
+    margin-bottom: 275px;
+    font-size: 22px;
+}
+.carousel-caption h5 {
+    font-size: 36px;
+}
+.carousel-item{
+    height: 800px;
+}
+.secent{
+    position: relative;
+    bottom: 70px!important;
+    left: 10px;
+}
+.tabledd{
+    border-top: 1px solid rgba(48, 43, 43, 0.774);
+    border-bottom: 1px solid rgba(41, 37, 37, 0.699);
+    
+}
+.cardddd{
+    border-bottom: 1px solid rgba(41, 37, 37, 0.699);
+}
